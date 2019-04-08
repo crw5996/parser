@@ -18,9 +18,9 @@ package ast
 import (
 	"io"
 
-	. "github.com/pingcap/parser/format"
-	"github.com/pingcap/parser/model"
-	"github.com/pingcap/parser/types"
+	. "github.com/crw5996/parser/format"
+	"github.com/crw5996/parser/model"
+	"github.com/crw5996/parser/types"
 )
 
 // Node is the basic element of the AST.
