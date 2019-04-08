@@ -32,7 +32,7 @@ import __yyfmt__ "fmt"
 import (
 	"strings"
 
-	"github.com/pingcap/parser/ast"
+	"github.com/pingcap/crw5996/ast"
 	"github.com/pingcap/parser/auth"
 	"github.com/pingcap/parser/charset"
 	"github.com/pingcap/parser/model"
