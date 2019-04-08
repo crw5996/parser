@@ -50,6 +50,8 @@ var (
 	_ Node = &WhenClause{}
 )
 
+var evaluationStack = make([]bool, 0)
+
 // ValueExpr define a interface for ValueExpr.
 type ValueExpr interface {
 	ExprNode
