@@ -29,7 +29,7 @@ import (
 	"strings"
 
 	"github.com/pingcap/parser/mysql"
-	"github.com/pingcap/crw5996/ast"
+	"github.com/crw5996/ast"
 	"github.com/pingcap/parser/model"
 	"github.com/pingcap/parser/opcode"
 	"github.com/pingcap/parser/auth"
